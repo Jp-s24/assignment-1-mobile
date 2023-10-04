@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mobile-Assignment-1</string>
+    <string name="total_payment">Total Payment: $%.2f</string>
+</resources>
